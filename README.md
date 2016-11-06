@@ -1,6 +1,7 @@
 ### Info
 
-A paginated list of issues from the Rails repository using Webpack, React and Redux.
+A quick proof-of-concept project using react, redux and Webpack.
+A paginated list of issues and comments from the Rails repository using Github's Issues API.
 
 ### Running locally
 
@@ -12,10 +13,8 @@ Enter `npm run start` to start the local webpack development server.
 
 Navigate to `localhost:8080` in your browser to see the project in action.
 
-### Caveats
+### Next Steps
 
-Sorry I ran out of time to make this fully production-ready!
-
-I would have normalized the data structure, added some tests, and broken the styles into separate files.
-
-Thanks for your consideration and the opoprtunity to tackle this - it was fun!
+[ ] Add some tests
+[ ] Normalized the data structure more
+[ ] Break up styles
