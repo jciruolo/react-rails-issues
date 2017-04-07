@@ -13,8 +13,7 @@ Enter `npm run start` to start the local webpack development server.
 
 Navigate to `localhost:8080` in your browser to see the project in action.
 
-### Next Steps
-
-[ ] Add some tests
-[ ] Normalized the data structure more
-[ ] Break up styles
+### TODO
+- [ ] Add some tests
+- [ ] Normalized the data structure more
+- [ ] Break up styles
