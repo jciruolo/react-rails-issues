@@ -1,6 +1,6 @@
 ### Info
 
-A quick proof-of-concept project using react, redux and Webpack.
+An afternoon proof-of-concept project using react, redux and Webpack.
 A paginated list of issues and comments from the Rails repository using Github's Issues API.
 
 ### Running locally
