@@ -3,6 +3,9 @@
 An afternoon proof-of-concept project using react, redux and Webpack.
 A paginated list of issues and comments from the Rails repository using Github's Issues API.
 
+![rails-issues](https://github.com/jciruolo/react-rails-issues/blob/master/rails-issues.png)
+
+
 ### Running locally
 
 This project requires that npm be installed to run.
