@@ -18,5 +18,5 @@ Navigate to `localhost:8080` in your browser to see the project in action.
 
 ### TODO
 - [ ] Add some tests
-- [ ] Normalized the data structure more
+- [ ] Normalize the data structure more
 - [ ] Break up styles
